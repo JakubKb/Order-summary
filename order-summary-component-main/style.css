@@ -126,7 +126,7 @@ h1 {
 .btns {
     display: flex;
     flex-direction: column;
-    max-width: 90%;
+   width: 90%;
     margin: auto;
 }
 
